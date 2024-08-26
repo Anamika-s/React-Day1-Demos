@@ -15,7 +15,7 @@ root.render(
   <React.StrictMode>
     <App />
     <App1/>
-    <App2/>
+    {/* <App2/> */}
     <Parent1/>
     <App3/>
     <Func1/>
